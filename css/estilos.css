@@ -1,0 +1,10 @@
+.bg-img{
+    background-image: url("../Imagenes/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-color{
+    background-color: #c87d5d;
+}
